@@ -1,0 +1,40 @@
+{
+  "hortifruit": [
+    {
+      "id": 1,
+      "fruta": "Morango",
+      "valor": "20.59",
+      "foto": "./assets/morango.png"
+    },
+    {
+      "id": 2,
+      "fruta": "Melancia",
+      "valor": "8.50",
+      "foto": "./assets/melancia.png"
+    },
+    {
+      "id": 3,
+      "fruta": "Abacaxi",
+      "valor": "6.89",
+      "foto": "./assets/abacaxi.png"
+    },
+    {
+      "id": 4,
+      "fruta": "Manga",
+      "valor": "9.98",
+      "foto": "./assets/manga.png"
+    },
+    {
+      "id": "5",
+      "fruta": "Maracujá",
+      "valor": "7,87",
+      "foto": "./assets/maracuja.png"
+    },
+    {
+      "id": "6",
+      "fruta": "Pitaya",
+      "valor": "8,99",
+      "foto": "./assets/pitaya.png"
+    }
+  ]
+}
